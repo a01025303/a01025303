@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Ana Paula
 
+Computer science student at "Tecnológio de Monterrey". Enthusiast of neuroscience, personal development, programming, sports, education and learning. 
+
+Working on ...
+- Education project 
+- Wellness company
+- Automating business processes 
+
+How to reach me:
 <!--
 **a01025303/a01025303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
